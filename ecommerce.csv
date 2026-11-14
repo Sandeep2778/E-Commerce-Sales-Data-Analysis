@@ -1,0 +1,201 @@
+Order_ID,Date,Product,Category,Quantity,Price,City,Payment
+1001,2026-01-01,Tablet,Electronics,3,15000,Gurgaon,UPI
+1002,2026-01-02,Shoes,Fashion,4,2500,Jaipur,Debit Card
+1003,2026-01-03,T-Shirt,Fashion,3,800,Delhi,Credit Card
+1004,2026-01-04,Tablet,Electronics,1,15000,Gurgaon,Cash
+1005,2026-01-05,Headphones,Electronics,4,2000,Gurgaon,Debit Card
+1006,2026-01-06,Keyboard,Electronics,1,1200,Jaipur,UPI
+1007,2026-01-07,T-Shirt,Fashion,4,800,Delhi,UPI
+1008,2026-01-08,T-Shirt,Fashion,4,800,Jaipur,Debit Card
+1009,2026-01-09,Tablet,Electronics,2,15000,Delhi,Cash
+1010,2026-01-10,Mobile,Electronics,1,18000,Pune,Credit Card
+1011,2026-01-11,Headphones,Electronics,3,2000,Mumbai,Credit Card
+1012,2026-01-12,Tablet,Electronics,3,15000,Mumbai,UPI
+1013,2026-01-13,Headphones,Electronics,1,2000,Mumbai,Cash
+1014,2026-01-14,Headphones,Electronics,3,2000,Jaipur,Credit Card
+1015,2026-01-15,Keyboard,Electronics,3,1200,Pune,Cash
+1016,2026-01-16,T-Shirt,Fashion,1,800,Delhi,Cash
+1017,2026-01-17,Shoes,Fashion,4,2500,Gurgaon,UPI
+1018,2026-01-18,Keyboard,Electronics,1,1200,Delhi,Credit Card
+1019,2026-01-19,Keyboard,Electronics,4,1200,Gurgaon,Debit Card
+1020,2026-01-20,Headphones,Electronics,3,2000,Delhi,UPI
+1021,2026-01-21,Watch,Accessories,3,1500,Pune,Credit Card
+1022,2026-01-22,T-Shirt,Fashion,3,800,Gurgaon,Credit Card
+1023,2026-01-23,Mobile,Electronics,2,18000,Jaipur,Credit Card
+1024,2026-01-24,Keyboard,Electronics,4,1200,Delhi,Credit Card
+1025,2026-01-25,Shoes,Fashion,2,2500,Delhi,Credit Card
+1026,2026-01-26,Watch,Accessories,2,1500,Gurgaon,Cash
+1027,2026-01-27,Watch,Accessories,1,1500,Jaipur,UPI
+1028,2026-01-28,Mobile,Electronics,2,18000,Jaipur,Cash
+1029,2026-01-29,Keyboard,Electronics,1,1200,Pune,Debit Card
+1030,2026-01-30,Shoes,Fashion,1,2500,Jaipur,Credit Card
+1031,2026-01-31,T-Shirt,Fashion,2,800,Jaipur,UPI
+1032,2026-02-01,Laptop,Electronics,4,45000,Jaipur,Credit Card
+1033,2026-02-02,Shoes,Fashion,4,2500,Mumbai,UPI
+1034,2026-02-03,Mobile,Electronics,4,18000,Pune,Cash
+1035,2026-02-04,Watch,Accessories,4,1500,Delhi,UPI
+1036,2026-02-05,T-Shirt,Fashion,4,800,Gurgaon,Debit Card
+1037,2026-02-06,Shoes,Fashion,2,2500,Delhi,Debit Card
+1038,2026-02-07,Laptop,Electronics,2,45000,Pune,UPI
+1039,2026-02-08,Laptop,Electronics,3,45000,Gurgaon,UPI
+1040,2026-02-09,Headphones,Electronics,4,2000,Pune,UPI
+1041,2026-02-10,Headphones,Electronics,2,2000,Jaipur,UPI
+1042,2026-02-11,Tablet,Electronics,3,15000,Gurgaon,Debit Card
+1043,2026-02-12,Mobile,Electronics,4,18000,Jaipur,Credit Card
+1044,2026-02-13,Keyboard,Electronics,1,1200,Delhi,UPI
+1045,2026-02-14,Shoes,Fashion,3,2500,Delhi,UPI
+1046,2026-02-15,Shoes,Fashion,2,2500,Gurgaon,Debit Card
+1047,2026-02-16,Keyboard,Electronics,1,1200,Gurgaon,Debit Card
+1048,2026-02-17,Tablet,Electronics,1,15000,Pune,Cash
+1049,2026-02-18,Watch,Accessories,1,1500,Pune,UPI
+1050,2026-02-19,Watch,Accessories,3,1500,Jaipur,Cash
+1051,2026-02-20,Tablet,Electronics,2,15000,Gurgaon,Debit Card
+1052,2026-02-21,Watch,Accessories,1,1500,Delhi,Debit Card
+1053,2026-02-22,Headphones,Electronics,4,2000,Pune,Credit Card
+1054,2026-02-23,Shoes,Fashion,1,2500,Pune,UPI
+1055,2026-02-24,Tablet,Electronics,1,15000,Delhi,Cash
+1056,2026-02-25,Shoes,Fashion,3,2500,Pune,Debit Card
+1057,2026-02-26,Keyboard,Electronics,3,1200,Jaipur,Debit Card
+1058,2026-02-27,Laptop,Electronics,2,45000,Gurgaon,Cash
+1059,2026-02-28,Headphones,Electronics,4,2000,Delhi,Credit Card
+1060,2026-03-01,T-Shirt,Fashion,3,800,Gurgaon,Debit Card
+1061,2026-03-02,Headphones,Electronics,1,2000,Pune,UPI
+1062,2026-03-03,Tablet,Electronics,2,15000,Pune,Debit Card
+1063,2026-03-04,T-Shirt,Fashion,1,800,Delhi,UPI
+1064,2026-03-05,Laptop,Electronics,1,45000,Jaipur,Cash
+1065,2026-03-06,Tablet,Electronics,3,15000,Mumbai,UPI
+1066,2026-03-07,Mobile,Electronics,2,18000,Delhi,Cash
+1067,2026-03-08,Shoes,Fashion,4,2500,Mumbai,UPI
+1068,2026-03-09,Laptop,Electronics,4,45000,Mumbai,Cash
+1069,2026-03-10,Shoes,Fashion,3,2500,Jaipur,UPI
+1070,2026-03-11,Watch,Accessories,3,1500,Mumbai,Credit Card
+1071,2026-03-12,Mobile,Electronics,2,18000,Mumbai,UPI
+1072,2026-03-13,Mobile,Electronics,4,18000,Jaipur,UPI
+1073,2026-03-14,Laptop,Electronics,4,45000,Mumbai,Credit Card
+1074,2026-03-15,Mobile,Electronics,4,18000,Mumbai,Debit Card
+1075,2026-03-16,T-Shirt,Fashion,1,800,Mumbai,Debit Card
+1076,2026-03-17,Mobile,Electronics,4,18000,Delhi,UPI
+1077,2026-03-18,Shoes,Fashion,1,2500,Delhi,Credit Card
+1078,2026-03-19,Shoes,Fashion,2,2500,Delhi,UPI
+1079,2026-03-20,Tablet,Electronics,1,15000,Jaipur,Cash
+1080,2026-03-21,Shoes,Fashion,2,2500,Pune,Cash
+1081,2026-03-22,Tablet,Electronics,4,15000,Mumbai,UPI
+1082,2026-03-23,Shoes,Fashion,4,2500,Mumbai,Debit Card
+1083,2026-03-24,T-Shirt,Fashion,2,800,Jaipur,Debit Card
+1084,2026-03-25,Keyboard,Electronics,3,1200,Mumbai,UPI
+1085,2026-03-26,Tablet,Electronics,2,15000,Delhi,UPI
+1086,2026-03-27,Headphones,Electronics,3,2000,Pune,Cash
+1087,2026-03-28,Watch,Accessories,1,1500,Gurgaon,Debit Card
+1088,2026-03-29,Laptop,Electronics,1,45000,Mumbai,UPI
+1089,2026-03-30,Shoes,Fashion,1,2500,Delhi,Cash
+1090,2026-03-31,Mobile,Electronics,4,18000,Gurgaon,Debit Card
+1091,2026-04-01,Keyboard,Electronics,1,1200,Pune,Credit Card
+1092,2026-04-02,Shoes,Fashion,3,2500,Gurgaon,Cash
+1093,2026-04-03,Mobile,Electronics,1,18000,Delhi,Debit Card
+1094,2026-04-04,Watch,Accessories,2,1500,Gurgaon,Debit Card
+1095,2026-04-05,Watch,Accessories,2,1500,Jaipur,Cash
+1096,2026-04-06,Watch,Accessories,4,1500,Gurgaon,Credit Card
+1097,2026-04-07,Mobile,Electronics,2,18000,Mumbai,Cash
+1098,2026-04-08,Shoes,Fashion,3,2500,Mumbai,Debit Card
+1099,2026-04-09,Watch,Accessories,1,1500,Jaipur,UPI
+1100,2026-04-10,T-Shirt,Fashion,4,800,Delhi,UPI
+1101,2026-04-11,Tablet,Electronics,1,15000,Mumbai,Cash
+1102,2026-04-12,Mobile,Electronics,1,18000,Pune,Debit Card
+1103,2026-04-13,Mobile,Electronics,3,18000,Mumbai,UPI
+1104,2026-04-14,Shoes,Fashion,2,2500,Mumbai,Debit Card
+1105,2026-04-15,Mobile,Electronics,2,18000,Delhi,Cash
+1106,2026-04-16,Mobile,Electronics,1,18000,Gurgaon,UPI
+1107,2026-04-17,Watch,Accessories,4,1500,Mumbai,Debit Card
+1108,2026-04-18,Shoes,Fashion,2,2500,Jaipur,UPI
+1109,2026-04-19,Watch,Accessories,4,1500,Gurgaon,Cash
+1110,2026-04-20,Tablet,Electronics,2,15000,Pune,Debit Card
+1111,2026-04-21,Keyboard,Electronics,4,1200,Delhi,UPI
+1112,2026-04-22,Tablet,Electronics,3,15000,Pune,Cash
+1113,2026-04-23,Keyboard,Electronics,4,1200,Gurgaon,UPI
+1114,2026-04-24,Watch,Accessories,3,1500,Gurgaon,UPI
+1115,2026-04-25,Tablet,Electronics,3,15000,Gurgaon,Credit Card
+1116,2026-04-26,Shoes,Fashion,4,2500,Pune,Credit Card
+1117,2026-04-27,Laptop,Electronics,3,45000,Gurgaon,Cash
+1118,2026-04-28,Watch,Accessories,1,1500,Pune,Credit Card
+1119,2026-04-29,Keyboard,Electronics,3,1200,Gurgaon,Cash
+1120,2026-04-30,T-Shirt,Fashion,2,800,Jaipur,Credit Card
+1121,2026-05-01,Keyboard,Electronics,4,1200,Gurgaon,UPI
+1122,2026-05-02,T-Shirt,Fashion,1,800,Pune,Cash
+1123,2026-05-03,Mobile,Electronics,4,18000,Mumbai,Cash
+1124,2026-05-04,Tablet,Electronics,2,15000,Gurgaon,UPI
+1125,2026-05-05,T-Shirt,Fashion,2,800,Mumbai,Cash
+1126,2026-05-06,Keyboard,Electronics,2,1200,Jaipur,Cash
+1127,2026-05-07,Mobile,Electronics,3,18000,Delhi,Credit Card
+1128,2026-05-08,Laptop,Electronics,3,45000,Jaipur,Cash
+1129,2026-05-09,Shoes,Fashion,4,2500,Gurgaon,Debit Card
+1130,2026-05-10,Shoes,Fashion,4,2500,Mumbai,UPI
+1131,2026-05-11,Shoes,Fashion,1,2500,Mumbai,Credit Card
+1132,2026-05-12,T-Shirt,Fashion,1,800,Pune,Credit Card
+1133,2026-05-13,Laptop,Electronics,4,45000,Mumbai,Debit Card
+1134,2026-05-14,T-Shirt,Fashion,3,800,Pune,UPI
+1135,2026-05-15,Tablet,Electronics,2,15000,Delhi,UPI
+1136,2026-05-16,T-Shirt,Fashion,4,800,Gurgaon,Credit Card
+1137,2026-05-17,Laptop,Electronics,1,45000,Pune,Cash
+1138,2026-05-18,Laptop,Electronics,3,45000,Delhi,Credit Card
+1139,2026-05-19,Tablet,Electronics,4,15000,Mumbai,UPI
+1140,2026-05-20,Laptop,Electronics,4,45000,Mumbai,Debit Card
+1141,2026-05-21,Keyboard,Electronics,3,1200,Delhi,Credit Card
+1142,2026-05-22,Laptop,Electronics,4,45000,Mumbai,UPI
+1143,2026-05-23,Shoes,Fashion,3,2500,Delhi,Credit Card
+1144,2026-05-24,Keyboard,Electronics,2,1200,Pune,Cash
+1145,2026-05-25,Keyboard,Electronics,3,1200,Pune,Credit Card
+1146,2026-05-26,Tablet,Electronics,3,15000,Delhi,Credit Card
+1147,2026-05-27,Headphones,Electronics,3,2000,Pune,UPI
+1148,2026-05-28,Headphones,Electronics,4,2000,Pune,UPI
+1149,2026-05-29,Laptop,Electronics,4,45000,Pune,UPI
+1150,2026-05-30,Keyboard,Electronics,3,1200,Jaipur,Credit Card
+1151,2026-05-31,Headphones,Electronics,4,2000,Gurgaon,Cash
+1152,2026-06-01,Headphones,Electronics,1,2000,Mumbai,Debit Card
+1153,2026-06-02,Laptop,Electronics,1,45000,Jaipur,Debit Card
+1154,2026-06-03,Headphones,Electronics,4,2000,Pune,UPI
+1155,2026-06-04,T-Shirt,Fashion,4,800,Delhi,UPI
+1156,2026-06-05,Mobile,Electronics,3,18000,Pune,Credit Card
+1157,2026-06-06,Tablet,Electronics,2,15000,Gurgaon,Debit Card
+1158,2026-06-07,Mobile,Electronics,4,18000,Pune,UPI
+1159,2026-06-08,Laptop,Electronics,1,45000,Delhi,Cash
+1160,2026-06-09,Shoes,Fashion,3,2500,Gurgaon,Cash
+1161,2026-06-10,Tablet,Electronics,4,15000,Pune,UPI
+1162,2026-06-11,Laptop,Electronics,1,45000,Gurgaon,UPI
+1163,2026-06-12,Keyboard,Electronics,1,1200,Mumbai,Debit Card
+1164,2026-06-13,Shoes,Fashion,2,2500,Mumbai,Debit Card
+1165,2026-06-14,Mobile,Electronics,3,18000,Pune,Credit Card
+1166,2026-06-15,Laptop,Electronics,3,45000,Gurgaon,Debit Card
+1167,2026-06-16,Keyboard,Electronics,2,1200,Delhi,Cash
+1168,2026-06-17,Tablet,Electronics,2,15000,Pune,Cash
+1169,2026-06-18,Tablet,Electronics,3,15000,Mumbai,UPI
+1170,2026-06-19,Watch,Accessories,3,1500,Mumbai,Debit Card
+1171,2026-06-20,Keyboard,Electronics,4,1200,Pune,Credit Card
+1172,2026-06-21,T-Shirt,Fashion,4,800,Gurgaon,Cash
+1173,2026-06-22,Headphones,Electronics,2,2000,Mumbai,Cash
+1174,2026-06-23,Shoes,Fashion,4,2500,Gurgaon,Credit Card
+1175,2026-06-24,Keyboard,Electronics,1,1200,Mumbai,Credit Card
+1176,2026-06-25,Watch,Accessories,4,1500,Mumbai,Cash
+1177,2026-06-26,Headphones,Electronics,4,2000,Jaipur,Cash
+1178,2026-06-27,Headphones,Electronics,1,2000,Mumbai,Credit Card
+1179,2026-06-28,Laptop,Electronics,2,45000,Delhi,Cash
+1180,2026-06-29,Headphones,Electronics,1,2000,Pune,UPI
+1181,2026-06-30,T-Shirt,Fashion,4,800,Pune,UPI
+1182,2026-07-01,Tablet,Electronics,2,15000,Gurgaon,Credit Card
+1183,2026-07-02,Watch,Accessories,4,1500,Mumbai,Debit Card
+1184,2026-07-03,Headphones,Electronics,1,2000,Delhi,Credit Card
+1185,2026-07-04,Laptop,Electronics,1,45000,Gurgaon,Credit Card
+1186,2026-07-05,T-Shirt,Fashion,4,800,Jaipur,Debit Card
+1187,2026-07-06,Mobile,Electronics,3,18000,Gurgaon,Debit Card
+1188,2026-07-07,Tablet,Electronics,3,15000,Gurgaon,Debit Card
+1189,2026-07-08,Tablet,Electronics,1,15000,Mumbai,UPI
+1190,2026-07-09,Watch,Accessories,1,1500,Jaipur,Cash
+1191,2026-07-10,Tablet,Electronics,3,15000,Gurgaon,UPI
+1192,2026-07-11,Headphones,Electronics,3,2000,Delhi,Cash
+1193,2026-07-12,Laptop,Electronics,4,45000,Delhi,UPI
+1194,2026-07-13,Tablet,Electronics,4,15000,Pune,Cash
+1195,2026-07-14,Tablet,Electronics,3,15000,Jaipur,UPI
+1196,2026-07-15,Mobile,Electronics,4,18000,Jaipur,Debit Card
+1197,2026-07-16,Mobile,Electronics,4,18000,Pune,Credit Card
+1198,2026-07-17,Shoes,Fashion,2,2500,Gurgaon,UPI
+1199,2026-07-18,T-Shirt,Fashion,4,800,Jaipur,Cash
+1200,2026-07-19,Headphones,Electronics,1,2000,Delhi,Debit Card
