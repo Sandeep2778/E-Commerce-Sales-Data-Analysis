@@ -50,28 +50,20 @@ E-Commerce-Sales-Analysis/
 
 **🚀 How to Run the Project**
 Clone this repository:
-bash
-git clone YOUR_REPOSITORY_LINK
+git clone - https://github.com/Sandeep2778/E-Commerce-Sales-Data-Analysis.git
 
-Open the project folder.
+**Open the project folder.**
 Install the required libraries:
-bash
 pip install pandas numpy matplotlib seaborn jupyter
 
-Open Jupyter Notebook:
-bash
+**Open Jupyter Notebook:**
 jupyter notebook
 
 Run the analysis notebook.
 
-**📷 Project Screenshots**
+**👨‍💻 Author**
 
-Add your analysis charts and visualizations here.
+### **Name - Sandeep Kumar**
 
-👨‍💻 Author
-
-Your Name
-
-⭐ Conclusion
 
 This project demonstrates how data analysis techniques can be used to understand E-Commerce business performance, discover sales trends, and support better business decisions.
